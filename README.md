@@ -7,8 +7,12 @@
 
 This is a Challenge By <b>k1.code</b> . and i Used Below Technologies :
 <br/>
-```android``` ```Kotlin``` ```coroutine``` ```room``` ```mvvm architecture``` ```navigation component && single Activity designPattern```
-
+```android``` ```Kotlin``` ```coroutine``` 
+```room``` 
+```mvvm architecture``` 
+```navigation component```
+```single Activity designPattern```
+single Activity designPattern
 ## How Start :
 
 * 1 - Run ```npm instal```
