@@ -22,11 +22,11 @@ Room is an ORM for SQLite
 ```mvvm architecture``` 
 <br/>
 *viewmodel*
-android jetpak 
-databinding
+*android jetpak *
+*databinding*
 <br/>
 ```navigation component```
-```single Activity designPattern```
+```single Activity DesignPattern```
 
 
 ## Screenshots
