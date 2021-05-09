@@ -33,7 +33,7 @@ navigation component :
 >*Single Activity*
 >
 meterial design :
->*Buttonsheet dialog fragment*
+>*BottomSheet Dialog Fragment*
 
 ## Screenshots
 <a href="https://s18.picofile.com/file/8433154468/20210509_171139.jpg" target="blank"><img src="https://s18.picofile.com/file/8433154468/20210509_171139.jpg" alt="alireza abbasi علیرضا عباسی" /></a>
