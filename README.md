@@ -1,6 +1,5 @@
-<p align="center">
-  <a href="http://github.com/ali3529"</a>
-  <h1 align="center">TaskManager (Frontend)</h1>
+
+ <h1 align="center">TaskManager (android)</h1>
 </p>
 
 
@@ -8,7 +7,7 @@
 
 This is a Challenge By <b>k1.code</b> . and i Used Below Technologies :
 <br/>
-```React``` ```Material Ui```
+```android``` ```Kotlin``` ```coroutine``` ```room``` ```mvvm architecture``` ```navigation component && single Activity designPattern```
 
 ## How Start :
 
