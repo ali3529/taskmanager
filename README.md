@@ -22,10 +22,8 @@ Room is an ORM for SQLite
 ```mvvm architecture``` 
 <br/>
 >*viewmodel*
-<br/>
-*android jetpak*
-<br/>
-*databinding*
+>*android jetpak*
+>*databinding*
 <br/>
 ```navigation component```
 ```single Activity DesignPattern```
