@@ -7,7 +7,7 @@
 
 This is a Challenge By <b>k1.code</b> . and i Used Below Technologies :
 <br/>
-```android``` ```Kotlin```  
+```android``` ```Kotlin``` ```mvvm architecture```  
 
 ## technologies :
 
@@ -19,11 +19,12 @@ for reactive program and asynchron
 <br/>
 Room is an ORM for SQLite 
 <br/>
-```mvvm architecture``` 
-<br/>
->viewmodel
+
+jetpack component:
+>*viewmodel*
 <br/>
 >*android jetpak*
+><br/>
 >*databinding*
 <br/>
 ```navigation component```
