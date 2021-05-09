@@ -20,7 +20,7 @@ jetpack component :
 >*viewmodel*
 
 >*data binding*
->
+
 >*room *
 
 
