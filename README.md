@@ -20,11 +20,11 @@ for reactive program and asynchron
 Room is an ORM for SQLite 
 <br/>
 
-jetpack component:
+jetpack component :
 >*viewmodel*
-<br/>
+>
 >*android jetpak*
-><br/>
+
 >*databinding*
 <br/>
 ```navigation component```
