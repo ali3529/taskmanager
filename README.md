@@ -23,7 +23,7 @@ Room is an ORM for SQLite
 <br/>
 *viewmodel*
 <br/>
-*android jetpak *
+*android jetpak*
 <br/>
 *databinding*
 <br/>
