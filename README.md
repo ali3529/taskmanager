@@ -13,7 +13,7 @@ This is a Challenge By <b>k1.code</b> . and i Used Below Technologies :
 
 ```coroutine```
 <br/>
-for reactive program and asynchron
+for reactive programming and asynchron
 <br/>
 
 jetpack component :
@@ -27,8 +27,8 @@ jetpack component :
 
 
 <br/>
-```navigation component```
-```single Activity DesignPattern```
+navigation component :
+>*single Activity*
 
 
 ## Screenshots
