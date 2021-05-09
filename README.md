@@ -12,8 +12,7 @@ This is a Challenge By <b>k1.code</b> . and i Used Below Technologies :
 ## technologies :
 
 ```coroutine```
-</p>fasfasf</p>
-```room``` 
+```SQLite whit room ORM``` 
 ```mvvm architecture``` 
 ```navigation component```
 ```single Activity designPattern```
