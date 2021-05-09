@@ -7,16 +7,15 @@
 
 This is a Challenge By <b>k1.code</b> . and i Used Below Technologies :
 <br/>
-```android``` ```Kotlin``` ```coroutine``` 
+```android``` ```Kotlin```  
+
+## technologies :
+
+```coroutine```
 ```room``` 
 ```mvvm architecture``` 
 ```navigation component```
 ```single Activity designPattern```
-## How Start :
-
-* 1 - Run ```npm instal```
-* 2 - Change <b>backend endpoint</b> To Your End Point , Dir : ````src/data/index.ts```` 
-* 3 - Run ```npm start``` 
 
 
 ## Screenshots
