@@ -28,9 +28,7 @@ jetpack component :
 
 <br/>
 navigation component :
-
->*single Activity DesignPattern*
-<br/>
+>*Single Activity*
 
 ## Screenshots
 <a href="https://s18.picofile.com/file/8432983284/screen1.jpg" target="blank"><img src="https://s18.picofile.com/file/8432983284/screen1.jpg" alt="Mahdi Pakravan مهدی پاکروان" /></a>
