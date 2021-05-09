@@ -5,7 +5,7 @@
 
 ## Description
 
-This is a Challenge By <b>k1.code</b> . and i Used Below Technologies :
+This is a Challenge By <b>k1.code</b> . and i Used Android studio :
 <br/>
 ```android``` ```Kotlin``` ```mvvm architecture```  
 
