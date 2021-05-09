@@ -15,9 +15,16 @@ This is a Challenge By <b>k1.code</b> . and i Used Below Technologies :
 <br/>
 for reactive program and asynchron
 <br/>
-<hr/>
 ```SQLite whit room ORM``` 
+<br/>
+Room is an ORM for SQLite 
+<br/>
 ```mvvm architecture``` 
+<br/>
+*viewmodel*
+android jetpak 
+databinding
+<br/>
 ```navigation component```
 ```single Activity designPattern```
 
