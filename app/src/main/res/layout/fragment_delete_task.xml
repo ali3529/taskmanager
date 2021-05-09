@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.deleteTask.DeleteTaskFragment"
+>
+
+  <RelativeLayout
+      android:layout_width="match_parent"
+      android:layout_height="200dp"
+      app:layout_behavior="@string/bottom_sheet_behavior"
+      app:behavior_peekHeight="200dp"
+      app:behavior_hideable="false">
+      <TextView
+          android:id="@+id/delete_btn"
+          android:layout_width="match_parent"
+          android:layout_height="50dp"
+          android:background="@drawable/delete_btn_shape"
+          android:layout_margin="18dp"
+          android:text="حذف "
+          android:textSize="20sp"
+          android:textStyle="bold"
+          android:textColor="@color/black"
+          android:layout_centerInParent="true"
+          android:gravity="center"/>
+  </RelativeLayout>
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+</layout>

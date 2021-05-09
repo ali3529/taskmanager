@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/task_navigation"
+    app:startDestination="@id/tastFragment">
+
+    <fragment
+        android:id="@+id/tastFragment"
+        android:name="com.utabpars.taskmanager.ui.showTask.TastFragment"
+        android:label="TastFragment" />
+</navigation>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:tools="http://schemas.android.com/tools">
+    <data>
+        <variable
+            name="taskmodel"
+            type="com.utabpars.taskmanager.model.TaskModel" />
+    </data>
+
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+<TextView
+    android:id="@+id/item_title"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textStyle="bold"
+    android:textDirection="rtl"
+    android:layout_alignParentRight="true"
+    android:layout_alignParentTop="true"
+    android:layout_margin="14dp"
+    android:textSize="20dp"
+    tools:text="خرید لباس"
+    android:text="@{taskmodel.title}"
+    android:textColor="#9E000000"/>
+
+
+    <TextView
+        android:id="@+id/item_disc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:textDirection="rtl"
+        android:layout_alignParentRight="true"
+        android:layout_margin="14dp"
+        android:textSize="18dp"
+        tools:text="خرید لباس"
+        android:layout_below="@id/item_title"
+        android:text="@{taskmodel.discription}"/>
+
+    <ImageView
+        android:id="@+id/item_delete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_alignParentLeft="true"
+        android:src="@drawable/ic_delete_24"
+        android:layout_margin="14dp"
+      />
+
+    <ImageView
+        android:id="@+id/item_edit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+      android:layout_toRightOf="@id/item_delete"
+        android:src="@drawable/ic_edit_24"
+        android:layout_margin="14dp"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@id/item_disc"
+        android:layout_marginTop="4dp"
+        android:background="@color/blue"
+        android:layout_marginBottom="4dp"/>
+
+</RelativeLayout>
+</layout>
