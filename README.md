@@ -28,7 +28,7 @@ jetpack component :
 
 <br/>
 navigation component :
-
+<br/>
 >*single Activity DesignPattern*
 
 
