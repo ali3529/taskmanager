@@ -15,15 +15,12 @@ This is a Challenge By <b>k1.code</b> . and i Used Below Technologies :
 <br/>
 for reactive program and asynchron
 <br/>
-```SQLite whit room ORM``` 
-<br/>
-Room is an ORM for SQLite 
-<br/>
 
 jetpack component :
 >*viewmodel*
->
+>*data binding*
 >*android jetpak*
+>*room orm*
 
 >*databinding*
 <br/>
