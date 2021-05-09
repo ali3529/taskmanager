@@ -20,10 +20,8 @@ jetpack component :
 >*viewmodel*
 
 >*data binding*
-
->*android jetpak*
-
->*room orm*
+>
+>*room *
 
 
 <br/>
