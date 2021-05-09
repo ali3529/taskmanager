@@ -27,7 +27,9 @@ jetpack component :
 
 
 <br/>
+
 navigation component :
+
 >*Single Activity*
 
 ## Screenshots
