@@ -18,11 +18,14 @@ for reactive program and asynchron
 
 jetpack component :
 >*viewmodel*
+
 >*data binding*
+
 >*android jetpak*
+
 >*room orm*
 
->*databinding*
+
 <br/>
 ```navigation component```
 ```single Activity DesignPattern```
