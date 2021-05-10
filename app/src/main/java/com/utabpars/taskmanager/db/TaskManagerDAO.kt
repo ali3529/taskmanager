@@ -1,20 +1,23 @@
 package com.utabpars.taskmanager.db
 
+import androidx.lifecycle.LiveData
 import androidx.room.*
 import com.utabpars.taskmanager.model.TaskModel
 import kotlinx.coroutines.flow.Flow
 
 @Dao
-interface TaskManagerDAO{
-    @Insert
-    suspend fun saveTask(taskModel: TaskModel):Long
+interface TaskManagerDAO {
 
-    @Query("SELECT * FROM TaskModel")
-    suspend fun getTasks():List<TaskModel>
+    /*
+    also you can use insert and update in one function
+    Using the (onConflict) Method provide a way to Insert and Update in a one Hand.
+     */
+    @Insert(onConflict = OnConflictStrategy.REPLACE)
+    suspend fun insertOrUpdate(taskModel: TaskModel)
 
-    @Update
-    suspend fun editTask(taskModel: TaskModel):Int
+    @Query("SELECT * FROM tbl_task")
+    suspend fun getTasks(): List<TaskModel>
 
     @Delete
-    suspend fun deletTask(taskModel: TaskModel):Int
+    suspend fun deletTask(taskModel: TaskModel)
 }
